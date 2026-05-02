@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oilspill_0: -5836749987585681965
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
